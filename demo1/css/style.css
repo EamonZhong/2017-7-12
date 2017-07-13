@@ -34,7 +34,7 @@ img{
 }
 .shadow2{
 	position: absolute;
-	width: 800px;
+	width: 80px;
 	height: 71px;
 	background: url(../img/pic.png)  no-repeat  center center ;
 	display: none;
